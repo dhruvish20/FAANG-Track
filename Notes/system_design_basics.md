@@ -207,6 +207,3 @@ If a server goes down:
 ---
 
 >  CAP theorem is a foundational concept in system design interviews and real-world distributed architecture. Choose your trade-offs wisely based on the system's goals.
-
-
-
